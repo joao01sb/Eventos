@@ -1,4 +1,4 @@
-package com.joao01sb.eventos
+package com.joao01sb.eventos.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
